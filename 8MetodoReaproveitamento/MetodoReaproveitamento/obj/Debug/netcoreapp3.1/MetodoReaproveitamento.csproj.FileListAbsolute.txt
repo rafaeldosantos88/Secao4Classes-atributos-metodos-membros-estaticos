@@ -1,0 +1,11 @@
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\bin\Debug\netcoreapp3.1\MetodoReaproveitamento.exe
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\bin\Debug\netcoreapp3.1\MetodoReaproveitamento.deps.json
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\bin\Debug\netcoreapp3.1\MetodoReaproveitamento.runtimeconfig.json
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\bin\Debug\netcoreapp3.1\MetodoReaproveitamento.runtimeconfig.dev.json
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\bin\Debug\netcoreapp3.1\MetodoReaproveitamento.dll
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\bin\Debug\netcoreapp3.1\MetodoReaproveitamento.pdb
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\obj\Debug\netcoreapp3.1\MetodoReaproveitamento.csprojAssemblyReference.cache
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\obj\Debug\netcoreapp3.1\MetodoReaproveitamento.AssemblyInfoInputs.cache
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\obj\Debug\netcoreapp3.1\MetodoReaproveitamento.AssemblyInfo.cs
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\obj\Debug\netcoreapp3.1\MetodoReaproveitamento.dll
+C:\temp\MetodoReaproveitamento\MetodoReaproveitamento\obj\Debug\netcoreapp3.1\MetodoReaproveitamento.pdb

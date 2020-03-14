@@ -1,0 +1,11 @@
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\netcoreapp3.1\EstruturaEnquanto.exe
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\netcoreapp3.1\EstruturaEnquanto.deps.json
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\netcoreapp3.1\EstruturaEnquanto.runtimeconfig.json
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\netcoreapp3.1\EstruturaEnquanto.runtimeconfig.dev.json
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\netcoreapp3.1\EstruturaEnquanto.dll
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\bin\Debug\netcoreapp3.1\EstruturaEnquanto.pdb
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\netcoreapp3.1\EstruturaEnquanto.csprojAssemblyReference.cache
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\netcoreapp3.1\EstruturaEnquanto.AssemblyInfoInputs.cache
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\netcoreapp3.1\EstruturaEnquanto.AssemblyInfo.cs
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\netcoreapp3.1\EstruturaEnquanto.dll
+C:\temp\EstruturaEnquanto\EstruturaEnquanto\obj\Debug\netcoreapp3.1\EstruturaEnquanto.pdb

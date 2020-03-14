@@ -1,0 +1,11 @@
+C:\temp\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.exe
+C:\temp\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.deps.json
+C:\temp\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.runtimeconfig.json
+C:\temp\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.runtimeconfig.dev.json
+C:\temp\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.dll
+C:\temp\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.pdb
+C:\temp\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.csprojAssemblyReference.cache
+C:\temp\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.AssemblyInfoInputs.cache
+C:\temp\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.AssemblyInfo.cs
+C:\temp\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.dll
+C:\temp\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.pdb

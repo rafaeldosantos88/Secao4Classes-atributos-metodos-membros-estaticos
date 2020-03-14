@@ -1,0 +1,11 @@
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.exe
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.deps.json
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.runtimeconfig.json
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.runtimeconfig.dev.json
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.dll
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\bin\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.pdb
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.csprojAssemblyReference.cache
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.AssemblyInfoInputs.cache
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.AssemblyInfo.cs
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.dll
+C:\temp\Programa-SemOrientacaoObjeto\Programa-SemOrientacaoObjeto\obj\Debug\netcoreapp3.1\Programa-SemOrientacaoObjeto.pdb

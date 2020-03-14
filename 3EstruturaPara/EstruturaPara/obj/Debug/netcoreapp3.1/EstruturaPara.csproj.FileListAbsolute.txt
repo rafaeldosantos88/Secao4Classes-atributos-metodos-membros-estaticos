@@ -1,0 +1,11 @@
+C:\temp\EstruturaPara\EstruturaPara\bin\Debug\netcoreapp3.1\EstruturaPara.exe
+C:\temp\EstruturaPara\EstruturaPara\bin\Debug\netcoreapp3.1\EstruturaPara.deps.json
+C:\temp\EstruturaPara\EstruturaPara\bin\Debug\netcoreapp3.1\EstruturaPara.runtimeconfig.json
+C:\temp\EstruturaPara\EstruturaPara\bin\Debug\netcoreapp3.1\EstruturaPara.runtimeconfig.dev.json
+C:\temp\EstruturaPara\EstruturaPara\bin\Debug\netcoreapp3.1\EstruturaPara.dll
+C:\temp\EstruturaPara\EstruturaPara\bin\Debug\netcoreapp3.1\EstruturaPara.pdb
+C:\temp\EstruturaPara\EstruturaPara\obj\Debug\netcoreapp3.1\EstruturaPara.csprojAssemblyReference.cache
+C:\temp\EstruturaPara\EstruturaPara\obj\Debug\netcoreapp3.1\EstruturaPara.AssemblyInfoInputs.cache
+C:\temp\EstruturaPara\EstruturaPara\obj\Debug\netcoreapp3.1\EstruturaPara.AssemblyInfo.cs
+C:\temp\EstruturaPara\EstruturaPara\obj\Debug\netcoreapp3.1\EstruturaPara.dll
+C:\temp\EstruturaPara\EstruturaPara\obj\Debug\netcoreapp3.1\EstruturaPara.pdb

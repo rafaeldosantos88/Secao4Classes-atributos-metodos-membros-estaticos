@@ -1,0 +1,11 @@
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\obj\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.csprojAssemblyReference.cache
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\obj\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.AssemblyInfoInputs.cache
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\obj\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.AssemblyInfo.cs
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\bin\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.exe
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\bin\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.deps.json
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\bin\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.runtimeconfig.json
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\bin\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.runtimeconfig.dev.json
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\bin\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.dll
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\bin\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.pdb
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\obj\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.dll
+C:\temp\OrientaçãoObjetos\ProgramaComOrientaçãoObjetos\obj\Debug\netcoreapp3.1\ProgramaComOrientaçãoObjetos.pdb
